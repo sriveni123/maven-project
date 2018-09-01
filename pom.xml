@@ -34,7 +34,6 @@
             </plugin>
 		</plugins>
 	</build>
-	
 	 <scm>
 		 
 		<connection>scm:svn:http://192.168.33.10:8088/subversion/trunk/</connection>
